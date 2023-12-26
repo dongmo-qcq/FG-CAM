@@ -1,4 +1,4 @@
-# FG-CAM: FG-CAM: Generating Fine-Grained Visual Explanations with High Faithfulness for CNNs
+# Empowering CAM-based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations
 
 We develop a novel post-hoc visual explanation method called FG-CAM, which solves solves the problem that
 CAM-based methods cannot generate fine-grained explanations without changing their characteristics, and achives SOTA.
@@ -7,16 +7,16 @@ CAM-based methods cannot generate fine-grained explanations without changing the
 
 
 ## Introduction
-Implementation of [FG-CAM: Generating Fine-Grained Visual Explanations with High Faithfulness for CNNs].
+Implementation of [Empowering CAM-based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations].
 
 Our method can generate fine-grained visual explanations with high faithfulness in shallow 
 and intermediate convolutional layers as well as in the input layer.
 
 Method consists of 3 phases:
 
-1. The explanation components are obtained using cam-based methods.
+1. The explanation components are calculated using a CAM-based method in last convolutional layer.
 
-2. Using the relationship between the two adjacent layer’s feature maps to improve the resolution of the explanation components
+2. Improve resolution of the explanation components.
 
 3. Summing the processed components to obtain fine-grained explanations.
 
