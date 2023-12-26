@@ -1,6 +1,6 @@
 # Empowering CAM-based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations
 
-We develop a novel post-hoc visual explanation method called FG-CAM, which solves solves the problem that
+We develop a novel post-hoc visual explanation method called FG-CAM, which solves the problem that
 CAM-based methods cannot generate fine-grained explanations without changing their characteristics, and achives SOTA.
 
 <img src="pics/comparison.jpg" width="600px" height="450px" title="Comparison" alt="Comparison"></img><br/>
