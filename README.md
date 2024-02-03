@@ -1,4 +1,4 @@
-# Empowering CAM-based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations
+# Empowering CAM-Based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations
 
 We develop a novel post-hoc visual explanation method called FG-CAM, which solves the problem that
 CAM-based methods cannot generate fine-grained explanations without changing their characteristics, and achives SOTA.
@@ -7,7 +7,7 @@ CAM-based methods cannot generate fine-grained explanations without changing the
 
 
 ## Introduction
-Implementation of [Empowering CAM-based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations].
+Implementation of [Empowering CAM-Based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations].
 
 Our method can generate fine-grained visual explanations with high faithfulness in shallow 
 and intermediate convolutional layers as well as in the input layer.
